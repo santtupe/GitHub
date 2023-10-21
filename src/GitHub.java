@@ -18,6 +18,10 @@ public class GitHub {
 		System.out.println("Ohjelman tekijä: ");
 		System.out.println(tekija);
 		
+		System.out.println("Luku1-muuttujan arvo on " + Luku1);
+		System.out.println("Luku2-muuttujan arvo on " + Luku2);
+		System.out.println(Luku1 + "*" + Luku2 + "=" + tulo);
+		
 	}
 
 }
