@@ -14,6 +14,10 @@ public class GitHub {
 		double tulo;
 		tulo = Luku1 * Luku2;
 		
+		System.out.println("Hei olen Tulostin ohjelma");
+		System.out.println("Ohjelman tekijä: ");
+		System.out.println(tekija);
+		
 	}
 
 }
